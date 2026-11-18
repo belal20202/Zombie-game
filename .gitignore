@@ -1,0 +1,6 @@
+.godot/
+build/
+*.translation
+.import/
+export.cfg
+debug.keystore
